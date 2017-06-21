@@ -1,5 +1,7 @@
 # normalize-registry-url
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pnpm/normalize-registry-url.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/pnpm/normalize-registry-url.svg?branch=master)](https://travis-ci.org/pnpm/normalize-registry-url)
 
 > Normalizes a npm registry URL
