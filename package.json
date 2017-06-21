@@ -1,0 +1,30 @@
+{
+  "name": "normalize-registry-url",
+  "version": "0.0.0",
+  "description": "Normalizes a npm registry URL",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnpm/normalize-registry-url.git"
+  },
+  "keywords": [
+    "registry",
+    "npm",
+    "normalize"
+  ],
+  "author": "Zoltan Kochan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pnpm/normalize-registry-url/issues"
+  },
+  "homepage": "https://github.com/pnpm/normalize-registry-url#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
