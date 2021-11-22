@@ -7,7 +7,7 @@
 ## Installation
 
 ```
-npm i normalize-registry-url
+pnpm add normalize-registry-url
 ```
 
 ## Usage
