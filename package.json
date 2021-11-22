@@ -1,6 +1,6 @@
 {
   "name": "normalize-registry-url",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Normalizes a npm registry URL",
   "main": "index.js",
   "files": [
